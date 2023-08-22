@@ -1,0 +1,22 @@
+body {
+    background-color: #eceff4;
+}
+
+.title {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.recipes-list {
+    width: 500px;
+    margin: 0 auto;
+}
+h1 {
+    color: #3b4252;
+}
+
+a {
+    color: #5e81ac;
+    text-decoration: none;
+}
